@@ -3,6 +3,10 @@
 
 ## 🚀 Overview
 
+Where your Ideal Dream Body becomes reality with following your idols routines. 
+
+Just copy and paste the youtube url of your favorite lifter, influencers, bodybuilder, role model into the url. The routine will appear. But make sure it is a video with speech in it, it can not be just a video with music and text. This is in the beta stages. Beta V1.1
+
 InflueFitn8ss is a cutting-edge web application that transforms fitness videos into personalized workout plans using artificial intelligence. Built with modern web technologies and designed for scalability, this platform bridges the gap between online fitness content and actionable workout routines.
 
 ## ✨ Key Features
